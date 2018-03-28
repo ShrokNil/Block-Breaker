@@ -3,7 +3,7 @@ using System.Collections;
 
 public class Brick : MonoBehaviour {
 public Sprite[] hitSprites;
-public AudioClip Dicks;
+public AudioClip x;
 public GameObject smoke;
 
 private int timesHit;
